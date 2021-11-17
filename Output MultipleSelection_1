@@ -1,0 +1,27 @@
+Output 1 :
+Enter your subject 1 :
+sain
+Enter your subject 2 :
+math
+Enter your mark 1 :
+85
+Enter your mark 2 :
+65
+Anda lulus kedua-dua subject
+sain is greater than math
+Purata markah anda adalah 75.0
+Anda mendapat Gred B
+
+Output 2:
+Enter your subject 1 :
+sain
+Enter your subject 2 :
+math
+Enter your mark 1 :
+35
+Enter your mark 2 :
+42
+Anda fail kedua-dua subject
+math is greater than sain
+Purata markah anda adalah 38.5
+Anda mendapat Gred F
