@@ -1,0 +1,34 @@
+Output 1:
+Enter your number of subject :
+3
+Enter your first subject name :
+sain
+Enter your first subject mark :
+65
+Enter your second subject name :
+math
+Enter your second subject mark :
+85
+Enter your third subject name :
+english
+Enter your third subject mark :
+65
+Your average mark is :71.0
+
+Output 2:
+Enter your number of subject :
+2
+Enter your first subject name :
+sain
+Enter your first subject mark :
+63
+Enter your second subject name :
+math
+Enter your second subject mark :
+12
+Your average mark is :37.0
+
+Output 3:
+Enter your number of subject :
+15
+The maksimum subject is 3,re-enter again. 
