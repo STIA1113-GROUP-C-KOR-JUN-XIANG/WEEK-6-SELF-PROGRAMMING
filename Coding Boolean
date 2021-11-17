@@ -1,0 +1,29 @@
+package SelfProgramming;
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double d1 = 2.2+4.4;
+		double d2 = 6.6;
+		int d3 = 2 + 4;
+		int d4 = 6;
+		String s1 = "abu";
+		String s2 = "abu";
+		System.out.println(d1==d2);
+		System.out.println(d1);
+		System.out.println(d3==d4);
+		System.out.println(s1==s2);
+		double y=15.0;
+		double x=25.0;
+		if (y!=x)
+	     System.out.println("Result : y not equal x");
+		if (y==x)
+			System.out.println("Result : y equal x");
+		if (y<=x)
+			System.out.println("Result : y less than x");
+		if (x>=y)
+			System.out.println("Result : x greater than y");
+	}
+
+}
