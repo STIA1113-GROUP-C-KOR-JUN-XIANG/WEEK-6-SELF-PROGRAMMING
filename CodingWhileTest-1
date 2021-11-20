@@ -1,0 +1,23 @@
+package SelfProgramming;
+
+public class WhileTest_1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x = 11;
+		parcel: while(x>10&&x<=30) {
+			System.out.println("Value of x : "+x);
+			x++;
+			while(x>=30) {
+				System.out.println("Value of x : "+x);
+				;x++;
+				while(x==40) {
+					System.out.println("Value of x = "+x);
+					break parcel;
+				}
+			
+			}
+		}
+	}
+
+}
